@@ -1,2 +1,5 @@
-# NAVADMIN-ALNAV-RSS
-RSS feed of new Navy NAVADMIN and ALNAV Messages
+# NAVADMIN / ALNAV RSS
+
+Public RSS feed for NAVADMIN and ALNAV message notifications.
+
+Feed URL will be published via GitHub Pages.
